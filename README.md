@@ -24,11 +24,11 @@ Created interactive visualizations in Power BI to present the findings in a clea
 
 ![datapro-1](https://github.com/user-attachments/assets/eb3451f0-0d76-4dad-8031-88b4377c72f1)
 
-3. Higher Qualifications Correlate with Higher Salaries: Respondents with a PhD earn more on average than those with lower qualifications, highlighting the value of advanced education in the data field.
+2. Higher Qualifications Correlate with Higher Salaries: Respondents with a PhD earn more on average than those with lower qualifications, highlighting the value of advanced education in the data field.
 
  ![datapro-2](https://github.com/user-attachments/assets/69fba351-bf6c-499d-9df0-80d03aa40e9d)
  
-4. Gender Salary Disparity: Interestingly, the survey data shows that, on average, female data professionals are earning more than their male counterparts, which could indicate a shift towards more equitable pay.
+3. Gender Salary Disparity: Interestingly, the survey data shows that, on average, female data professionals are earning more than their male counterparts, which could indicate a shift towards more equitable pay.
 
  ![datapro-4](https://github.com/user-attachments/assets/881ed9b0-b0d2-4ab3-943e-cae7fd4fc99a)
 
@@ -54,8 +54,5 @@ The analysis provides a valuable overview of the current state of the data profe
 
 
 
-## Repository Structure
-/data: Contains the survey data files.
-/powerbi: Includes the Power BI file (.pbix) with all the analysis and visualizations.
-README.md: Project overview and details.
+
 
