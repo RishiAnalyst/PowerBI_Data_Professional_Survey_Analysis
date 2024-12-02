@@ -20,21 +20,33 @@ Created interactive visualizations in Power BI to present the findings in a clea
 ## Key Insights
 ### Salary Analysis
 1. Data Scientists Lead in Salary: Among the survey respondents, data scientists are the highest earners, indicating a high demand and value for this role in the industry.
-  ![datapro-1](https://github.com/user-attachments/assets/eb3451f0-0d76-4dad-8031-88b4377c72f1)
-2. Higher Qualifications Correlate with Higher Salaries: Respondents with a PhD earn more on average than those with lower qualifications, highlighting the value of advanced education in the data field.
+
+
+![datapro-1](https://github.com/user-attachments/assets/eb3451f0-0d76-4dad-8031-88b4377c72f1)
+
+3. Higher Qualifications Correlate with Higher Salaries: Respondents with a PhD earn more on average than those with lower qualifications, highlighting the value of advanced education in the data field.
+
  ![datapro-2](https://github.com/user-attachments/assets/69fba351-bf6c-499d-9df0-80d03aa40e9d)
-3. Gender Salary Disparity: Interestingly, the survey data shows that, on average, female data professionals are earning more than their male counterparts, which could indicate a shift towards more equitable pay.
+ 
+4. Gender Salary Disparity: Interestingly, the survey data shows that, on average, female data professionals are earning more than their male counterparts, which could indicate a shift towards more equitable pay.
+
  ![datapro-4](https://github.com/user-attachments/assets/881ed9b0-b0d2-4ab3-943e-cae7fd4fc99a)
+
 ### Programming Language Preference
 Python as the Preferred Language: Python emerged as the favorite programming language among the majority of survey participants, reflecting its popularity and widespread use in data analysis and machine learning.
+
 ![datapro-3](https://github.com/user-attachments/assets/e2d3334c-71ef-48d1-85d9-64964c7b0e11)
+
 ### Career Switching Trends
 Transition into Data Roles: A significant number of respondents have switched to data roles from different careers, suggesting the growing appeal of data-related professions across various backgrounds.
+
 ![datapro-5](https://github.com/user-attachments/assets/e9fe3f7a-d887-4514-9008-98481d22c3d5)
 
 ## Other Insights
 ### Happiness Index
+
 ![Screenshot (182)](https://github.com/user-attachments/assets/ca390016-e27c-409a-b158-f69292902c09)
+
 1. Salary Satisfaction: The average happiness index for salary in the current role is below 5 out of 10, indicating room for improvement in compensation satisfaction among data professionals.
 2. Work-Life Balance: The average happiness index for work-life balance is around 5 out of 10, suggesting that balancing work demands with personal life remains a challenge for many in the field.
 ## Conclusion
