@@ -1,4 +1,5 @@
 # Data Professionals Survey Analysis with Power BI
+### Power BI Report: https://app.powerbi.com/view?r=eyJrIjoiZTk3Yzk3MGQtMjFkMi00MmZhLWEzOTktZTg4Y2U1MjgwOWZiIiwidCI6IjlmMzA5MDY2LTU1Y2YtNDQ4NS04N2Q0LWViNTljZDdiYzY4NCJ9
 ## Project Overview
 This project involves analyzing a comprehensive survey of data professionals using Power BI to gain insights into the demographics, career satisfaction, and preferences of individuals working in the data industry. The objective was to derive meaningful insights that could help understand the trends and factors influencing the data profession.
 
