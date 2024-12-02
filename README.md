@@ -19,7 +19,7 @@ Created interactive visualizations in Power BI to present the findings in a clea
 
 ## Key Insights
 ### Salary Analysis
-1. Data Scientists Lead in Salary: Among the survey respondents, data scientists are the highest earners, indicating a high demand and value for this role in the industry.
+1. Data Scientists Lead in Salary: Among the survey respondents, data scientists are the highest earners, indicating a high demand and value for this role in the industry.     ![datapro-1](https://github.com/user-attachments/assets/eb3451f0-0d76-4dad-8031-88b4377c72f1)
 2. Higher Qualifications Correlate with Higher Salaries: Respondents with a PhD earn more on average than those with lower qualifications, highlighting the value of advanced education in the data field.
 3. Gender Salary Disparity: Interestingly, the survey data shows that, on average, female data professionals are earning more than their male counterparts, which could indicate a shift towards more equitable pay.
 ### Programming Language Preference
