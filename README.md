@@ -9,6 +9,14 @@ This project involves analyzing a comprehensive survey of data professionals usi
 1. Explore the demographics and characteristics of data professionals.
 2. Analyze career satisfaction, including salary and work-life balance.
 3. Identify trends in programming language preferences and career switching within the data industry.
+## Project Steps
+### Data Importation:
+Imported survey data into Power BI for analysis.
+### Data Cleaning and Processing:
+Used Power Query for data cleaning and preprocessing to ensure accuracy and relevance.
+### Visualization:
+Created interactive visualizations in Power BI to present the findings in a clear and informative manner.
+
 ## Key Insights
 ### Salary Analysis
 1. Data Scientists Lead in Salary: Among the survey respondents, data scientists are the highest earners, indicating a high demand and value for this role in the industry.
@@ -25,13 +33,7 @@ Transition into Data Roles: A significant number of respondents have switched to
 ## Conclusion
 The analysis provides a valuable overview of the current state of the data profession, highlighting key trends and areas for improvement. Key takeaways include the prominence of Python, the financial benefits of higher qualifications, and the encouraging trend of career switches into data roles. However, there is a need for better salary satisfaction and work-life balance among data professionals.
 
-## Project Steps
-### Data Importation:
-Imported survey data into Power BI for analysis.
-### Data Cleaning and Processing:
-Used Power Query for data cleaning and preprocessing to ensure accuracy and relevance.
-### Visualization:
-Created interactive visualizations in Power BI to present the findings in a clear and informative manner.
+
 
 ## Repository Structure
 /data: Contains the survey data files.
